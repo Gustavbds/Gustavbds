@@ -1,6 +1,6 @@
 
-# Hello there! 🤖
-
+# 🤖 Hello there! Eu sou Gustavo Barbosa..
+ 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🔍 Em busca de uma oportunidade de estágio em QA / Testes de Software.  
 - 💻 Interesse em Qualidade de Software e Automação de Testes.
