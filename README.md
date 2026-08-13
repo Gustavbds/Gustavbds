@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Gustavbds/Gustavbds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! 🤖
 
-Here are some ideas to get you started:
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
+- 🔍 Em busca de uma oportunidade de estágio em QA / Testes de Software.  
+- 💻 Interesse em Qualidade de Software e Automação de Testes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tecnologias ⛏️
+- Java
+- javaScript
+- HTML
+- MySQL
+
+## Atualmente Estudando📒
+  - Selenium
+  - Cucumber
+  - Postman
+  - REST Assured
+  - Appium
+
+## Objetivo ✈️
+Busco desenvolver minhas habilidades em Qualidade de Software e Automação de Testes, criando projetos práticos e adquirindo experiência profissional na área de QA.
+
+## Contato📻
+- E-mail: gus.barbosads@gmail.com
+
 -->
